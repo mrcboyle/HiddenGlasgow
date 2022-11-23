@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.leaflet-container {
+
+  display: flex;
+  flex-flow: column wrap;
+  width: 50vw;
+  height: 50vh;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+}
+
+#wrapper {
+  margin-left:auto;
+  margin-right:auto;
+  width:960px;
+}
+
+
